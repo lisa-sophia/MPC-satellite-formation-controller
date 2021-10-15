@@ -1,0 +1,6 @@
+- This is the entire framework, that enables running the formation controller in MATLAB
+- All code that was written withing the scope of this thesis can be found in the folder "FormationController"
+- Navigate to that folder to run the formation controller as follows:
+--> To run the controller, run the file "startMPC.m"
+--> To recompile the problem function (e.g. after changes in the file "probfct_formation-control.c"), run the command "startMPC(1,1)"
+--> Change paramters and options in the file "initData.m"
